@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanjeet Kotarya
 
-<!--
-**SanjeetKotarya/SanjeetKotarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 M.Tech in Biomedical Engineering @ IIT Madras
+- 👨‍💻 Passionate about Product Design, VR/AR, and AI
+- 🎨 3D artist & developer | 🧠 Building PDF-GPT Pro (offline AI PDF reader)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender)
+![Unity](https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity)
+![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [📊 VR Data Visualizer](https://github.com/yourusername/VR-Data-Visualizer) – Explore data in 3D VR
+- [🧠 PDF-GPT Pro](https://github.com/yourusername/pdf-gpt-pro) – Offline PDF reader with AI
+- [🎮 Driving Simulator](https://github.com/yourusername/driving-simulator) – Immersive training sim
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/yourprofile)
