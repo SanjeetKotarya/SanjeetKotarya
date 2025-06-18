@@ -1,142 +1,215 @@
-# <div align="center">👋 Hi there, I'm **Sanjeet Kotarya**</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=M.Tech+in+Biomedical+Engineering;Product+Designer+%7C+VR%2FAR+Developer;3D+Artist+%7C+AI+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+
+# 🌟 Sanjeet Kotarya
+
+### 🧬 Biomedical Engineer × 🎮 3D/VR Developer × 🎨 Digital Artist
+
+*Building the future through immersive technology and innovative solutions*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Passionate+about+Tech+%2B+Art;Creating+Immersive+VR+Experiences;Transforming+Ideas+into+Reality)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 🎯 **About Me**
+## 🚀 Featured Projects
 
-```python
-class SanjeetKotarya:
-    def __init__(self):
-        self.education = "M.Tech in Biomedical Engineering @ IIT Madras"
-        self.role = "Product Designer & VR/AR Developer"
-        self.passion = ["Product Design", "Virtual Reality", "Artificial Intelligence"]
-        self.current_project = "PDF-GPT Pro (Offline AI PDF Reader)"
-        self.hobbies = ["3D Art", "Game Development", "Tech Innovation"]
-    
-    def get_daily_routine(self):
-        return "☕️ Code → 🎨 Design → 🚀 Build → 🔄 Repeat"
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 VR Data Visualizer
+**Interactive data visualization in Virtual Reality**
 ```
+🔧 Technologies: Unity, C#, OpenXR
+🎯 Purpose: Immersive data exploration
+✨ Features: Real-time 3D data rendering
+```
+[![VR Badge](https://img.shields.io/badge/VR-Ready-ff69b4?style=for-the-badge&logo=oculus)](https://github.com/sanjeetkotarya)
+
+</td>
+<td width="50%">
+
+### 🧠 PDF-GPT Pro
+**Offline AI-powered PDF assistant**
+```
+🔧 Technologies: Python, Transformers, UI
+🎯 Purpose: Intelligent document processing
+✨ Features: Offline AI, Fast queries
+```
+[![AI Badge](https://img.shields.io/badge/AI-Powered-00ff88?style=for-the-badge&logo=openai)](https://github.com/sanjeetkotarya)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏎️ Driving Simulator
+**Realistic vehicle simulation in Unreal Engine**
+```
+🔧 Technologies: Unreal Engine, C++, BP
+🎯 Purpose: Realistic driving physics
+✨ Features: Advanced car mechanics
+```
+[![Game Badge](https://img.shields.io/badge/Game-Engine-purple?style=for-the-badge&logo=unrealengine)](https://github.com/sanjeetkotarya)
+
+</td>
+<td width="50%">
+
+### 🔬 Biomedical Innovations
+**Engineering solutions for healthcare**
+```
+🔧 Technologies: MATLAB, CAD, Python
+🎯 Purpose: Medical device development
+✨ Features: FDA compliance focus
+```
+[![Medical Badge](https://img.shields.io/badge/Medical-Tech-red?style=for-the-badge&logo=heart)](https://github.com/sanjeetkotarya)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### **Languages & Frameworks**
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### **3D & Game Development**
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+### 🎮 Game Engines & 3D
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
-### **AI & Machine Learning**
+### 🧠 AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
-### **Tools & Platforms**
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
+## 📊 GitHub Analytics
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|---------|
-| **🧠 [PDF-GPT Pro](https://github.com/yourusername/pdf-gpt-pro)** | Offline AI-powered PDF reader with advanced analytics | `Python` `PyQt` `Transformers` | 🔥 Active |
-| **📊 [VR Data Visualizer](https://github.com/yourusername/VR-Data-Visualizer)** | Immersive 3D data exploration in virtual reality | `Unity` `C#` `OpenXR` | ✅ Complete |
-| **🎮 [Driving Simulator](https://github.com/yourusername/driving-simulator)** | Realistic driving training simulation | `Unity` `C#` `Physics` | 🚧 In Progress |
+![Sanjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeetkotarya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeetkotarya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeetkotarya&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanjeetkotarya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 **Achievements & Highlights**
-
-<div align="center">
-
-```
-🎓 M.Tech from IIT Madras              🚀 Building Next-Gen AI Tools
-🎨 Expert in 3D Modeling & Animation   💡 Product Design Specialist
-🥽 VR/AR Development Experience        📱 Cross-Platform App Developer
-```
-
-</div>
-
----
-
-## 📈 **Current Focus**
+## 🌟 Professional Focus Areas
 
 <div align="center">
 
 ```mermaid
-graph LR
-    A[🤖 AI/ML] --> B[📱 Product Development]
-    B --> C[🥽 VR/AR Experiences]
-    C --> D[🎨 3D Design]
-    D --> A
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4  
-    style C fill:#45b7d1
-    style D fill:#96ceb4
+mindmap
+  root((Sanjeet Kotarya))
+    Biomedical Engineering
+      Medical Device Design
+      Healthcare Solutions
+      FDA Compliance
+      Research & Development
+    VR/AR Development
+      Immersive Experiences
+      Data Visualization
+      Game Development
+      Simulation Systems
+    3D Art & Design
+      Character Modeling
+      Environment Design
+      Technical Art
+      Animation
+    AI & Machine Learning
+      Computer Vision
+      Natural Language Processing
+      Deep Learning
+      Data Analysis
 ```
 
 </div>
 
 ---
 
-## 🌐 **Connect With Me**
+## 🎯 Current Focus
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+| 🔥 **Currently Working On** | 🎓 **Learning** | 🎯 **Goals 2025** |
+|:---|:---|:---|
+| Advanced VR medical training simulations | WebXR development | Launch 3 major VR projects |
+| AI-powered 3D model generation | Real-time ray tracing | Contribute to open source |
+| Biomedical device prototyping | Quantum computing basics | Speaking at tech conferences |
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</div>
+## 📈 Contribution Activity
 
 <div align="center">
-  <h3>💭 "Innovation distinguishes between a leader and a follower" - Steve Jobs</h3>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjeetkotarya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
+
 </div>
 
 ---
 
+## 🤝 Connect & Collaborate
+
 <div align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/output/snake.svg" alt="Snake animation" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeetkotarya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_3d_art_page)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanjeetkotarya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanjeetkotarya.github.io)
+
+### 💌 Let's Build Something Amazing Together!
+
+*"The future belongs to those who believe in the beauty of their dreams."*
+
+**📧 Email:** [your.email@example.com](mailto:your.email@example.com)  
+**🌍 Location:** Available for remote collaboration worldwide
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanjeetkotarya&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
 </div>
